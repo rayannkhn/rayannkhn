@@ -141,7 +141,7 @@ I am a Software Engineer focused on building mobile and web layout solutions. My
 ---
 
 ### 🧾 Receipt Zero — Paperless B2B Retail Platform
-> **QR Digital Ledger Ledger System** designed for digital bill delivery and payment collection.
+> **QR Digital Ledger System** designed for digital bill delivery and payment collection.
 
 * **Hybrid Operations:** QR layouts support offline data caching alongside remote live tracking endpoints when networks are active.
 * **Integrations:** Handles invoice delivery through the WhatsApp Business API, standard SMS, and payment processing loops.
@@ -179,7 +179,6 @@ I am a Software Engineer focused on building mobile and web layout solutions. My
 </div>
 
 ---
----
 
 # 🐍 Interactive Contribution Grid Engine
 
@@ -187,6 +186,8 @@ I am a Software Engineer focused on building mobile and web layout solutions. My
 <!-- Automated background pipeline updates this graphic dynamically every 24 hours -->
 <img src="https://raw.githubusercontent.com/rayannkhn/rayannkhn/output/github-contribution-grid-snake.svg" alt="Dynamic Snake Graphic Track"/>
 </div>
+
+---
 
 # 🔗 Connect With Me
 
