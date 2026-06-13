@@ -1,32 +1,30 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
 
-<!-- Luxury Theme Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Muhammad%20Rayan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br/>
 
-<!-- Multi-Line Dynamic Engineering Identity -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=9B5CFF&center=true&vCenter=true&width=750&lines=Computer+Science+%40+FAST-NUCES;Flutter+%26+Cross-Platform+Engineer;AI+%2F+ML+Pipeline+Architect;Full+Stack+Web+%26+Mobile+Developer;Building+Real+Products+for+Scale"/>
 
 <br/>
 
-<!-- Professional Engineering Badges -->
 <img src="https://img.shields.io/badge/Computer%20Science-FAST%20NUCES-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Peshawar%2C%20Pakistan-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Actively%20Building-00EA64?style=for-the-badge"/>
 
 <br/><br/>
 
-<!-- High-Conversion Interactive Action Buttons -->
-<a href="https://rayan-khan.vercel.app" target="_blank">
+<a href="https://rayan-khan.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-rayan--khan.vercel.app-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/muhammad-rayan" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-rayan-b05947329/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:rayannkhn0@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20%E2%86%92-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="tel:+923379858361">
+  <img src="https://img.shields.io/badge/Phone-0337--9858361-128C7E?style=for-the-badge&logo=whatsapp"/>
 </a>
 <a href="https://github.com/rayannkhn" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow%20%E2%86%92-181717?style=for-the-badge&logo=github"/>
@@ -34,7 +32,6 @@
 
 <br/><br/>
 
-<!-- Production Metric Trackers -->
 <img src="https://komarev.com/ghpvc/?username=rayannkhn&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/rayannkhn?style=for-the-badge&color=8A2BE2&label=ENGINEERS+FOLLOWING"/>
 <img src="https://img.shields.io/github/stars/rayannkhn?style=for-the-badge&color=4B0082&label=TOTAL+STARS"/>
@@ -43,78 +40,98 @@
 
 ---
 
-# 👨‍💻 Executive Summary
+# 👨‍💻 About Section & Executive Summary
 
-> **CS student at FAST-NUCES building real products for Pakistani markets.**[cite: 1]
+> [cite_start]**Computer Science student at FAST-NUCES building real, production-ready systems tailored for Pakistani markets.** [cite: 6]
 
-I am a product-focused Software Engineer experienced in Flutter, Python, and full-stack web architectures[cite: 1]. With 4 shipped projects spanning cross-platform mobile apps, complex AI/ML pipelines, and early-stage startup systems[cite: 1], I bridge the gap between engineering complexity and real-world market solutions.
+[cite_start]I am a highly product-focused Software Engineer with specialized competency across cross-platform mobile frameworks, custom Machine Learning pipelines, and full-stack web architectures[cite: 7]. [cite_start]With a track record of successfully shipped projects encompassing native applications, advanced data processing infrastructure, and early-stage startup systems [cite: 7][cite_start], I engineer solutions that combine high-performance computation with zero-cost structural architectures[cite: 20, 23, 24].
 
-### Core Architecture Competencies
-- **Cross-Platform Ecosystems:** Scalable mobile applications built with zero self-managed infrastructure cost[cite: 1].
-- **Data & Intelligence Pipelines:** Multi-stage Machine Learning workflows, automated fallback routing, and real-time risk calculations[cite: 1].
-- **Product Telemetry:** Designing offline-first capabilities, asynchronous isolates, and localized communication pipelines[cite: 1].
+### 🎯 Key Structural Pillars
+* [cite_start]**Cross-Platform Engineering:** Architecting comprehensive frontend applications utilizing robust state-management structures like Riverpod to scale smoothly across mobile and web layouts[cite: 11, 25].
+* [cite_start]**Intelligent Systems Pipeline:** Developing multi-stage mathematical models, algorithmic clustering systems, and statistical prediction layers optimized for low-latency executions[cite: 32].
+* [cite_start]**High-Availability Telemetry:** Designing background computing configurations, offline data-capturing mechanics, and direct programmatic warning gateways[cite: 26, 27, 43].
 
 ---
 
-# 🛠️ Enterprise-Grade Tech Stack
+# 🛠️ Enterprise Technology Stack Matrix
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>Frameworks</b></td>
-    <td align="center" width="25%"><b>Databases & BaaS</b></td>
-    <td align="center" width="25%"><b>Tools & Platforms</b></td>
+    <td align="center" width="25%"><b>Frameworks & Core UI</b></td>
+    <td align="center" width="25%"><b>Databases & Serverless BaaS</b></td>
+    <td align="center" width="25%"><b>Engineering Tools & OS</b></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,cpp,dart,javascript,c,postgres"/>
+    <td valign="top">
+      • Python <br>
+      • C++ <br>
+      • Dart <br>
+      • JavaScript <br>
+      • C <br>
+      • SQL [cite: 11]
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,react,express,pyqt,fastapi"/>
+    <td valign="top">
+      • Flutter <br>
+      • React <br>
+      • Express.js <br>
+      • PyQt5 <br>
+      • Riverpod [cite: 11]
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase"/>
+    <td valign="top">
+      • MySQL <br>
+      • MongoDB <br>
+      • SQLite <br>
+      • Firebase <br>
+      • PostgreSQL <br>
+      • Supabase [cite: 11]
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,figma,ubuntu,linux,unity,docker"/>
+    <td valign="top">
+      • Git <br>
+      • Figma <br>
+      • Ubuntu Linux <br>
+      • Unity 3D <br>
+      • REST APIs [cite: 11]
     </td>
   </tr>
 </table>
 </div>
 
-### Core Engineering Concepts
-`OOP (Object-Oriented Programming)`[cite: 1] • `REST APIs`[cite: 1] • `State Management (Riverpod)`[cite: 1] • `BaaS (Backend-as-a-Service)`[cite: 1] • `Asynchronous Programming`[cite: 1] • `UI/UX Design`[cite: 1] • `System Design`
+### Architectural & Engineering Methodologies
+[cite_start]`Object-Oriented Programming (OOP)` [cite: 11] [cite_start]• `State Management Patterns` [cite: 11] [cite_start]• `Backend-as-a-Service (BaaS)` [cite: 11] [cite_start]• `Asynchronous Programming Model` [cite: 11] [cite_start]• `UI/UX Strategy Design` [cite: 11] • `Database Scaling Protocols`
 
 ---
 
-# 🤖 AI / ML Expertise Matrix
+# 🤖 Deep-Dive AI / ML Core Competencies
 
-| Domain | Core Methodologies & Architecture Components | Proficiency |
+| Specialized Domain | Technical Methodologies & System Integrations | Proficiency |
 | :--- | :--- | :--- |
-| **Machine Learning Pipelines** | Model training pipelines, optimization, evaluation, Feature Engineering[cite: 1] | **Advanced** |
-| **Algorithmic Analytics** | K-Means clustering, K-Nearest Neighbors (KNN), Isolation Forest, Linear & Logistic Regression[cite: 1] | **Advanced** |
-| **Computer Vision** | Pixel-level tampering analysis, text extraction pipelines via OpenCV[cite: 1] | **Intermediate** |
-| **Core AI Intelligence** | Deep Learning, Neural Networks, $A^*$ Search Algorithms, predictive data analysis[cite: 1] | **Intermediate** |
-| **Data Science Ecosystem** | Exploratory Data Analysis (EDA) via `scikit-learn`, `pandas`, `matplotlib`[cite: 1] | **Advanced** |
+| **Statistical Model Architecture** | [cite_start]Linear & Logistic Regression modeling, training validation pipelines, data feature extraction. [cite: 11] | **Advanced** |
+| **Algorithmic Analytics** | [cite_start]Unsupervised K-Means clustering, K-Nearest Neighbors (KNN) logic engineering, and Isolation Forest anomaly screening. [cite: 11] | **Advanced** |
+| **Complex Search Optimization** | [cite_start]Deployed $A^*$ heuristic graph algorithms for specialized data structures and custom operational layout generations. [cite: 11] | **Advanced** |
+| **Computer Vision Diagnostics** | Pixel-level manipulation diagnostics via OpenCV, structural image processing, and multi-layered feature-tampering evaluation. [cite: 36, 37] | **Intermediate** |
+| **Deep Learning Infrastructure** | Building custom multi-layered Neural Networks, training pipeline evaluations, and local optimization. [cite: 11] | **Intermediate** |
+| **Data Science Frameworks** | End-to-end exploratory analysis pipelines using `scikit-learn`, `pandas`, and high-density visualizations via `matplotlib`. [cite: 11] | **Advanced** |
 
 ---
 
-# 🚀 Featured Shipped Production Systems
+# 🚀 Shipped Production Applications & Systems
 
 <details>
 <summary><b>📱 AroundFAST — Campus Accommodation Finder Platform</b></summary>
 <br>
 
-> A production-grade cross-platform mobile application addressing the lack of digital real estate solutions for students across Pakistan[cite: 1].
+> **Cross-Platform Mobile Application** built to address a major real estate problem that had no digital solution in Pakistani university sectors[cite: 16, 18, 19].
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Tech Stack** | Flutter, Dart, Supabase, PostgreSQL, OpenStreetMap[cite: 1] |
-| **Backend Layer** | Fully serverless backend architecture utilizing Supabase and PostgreSQL[cite: 1]. Handles real-time property listings and a high-concurrency live user review network without self-managed infrastructure overhead[cite: 1]. |
-| **Engineering Innovation** | Engineered a custom string-parsing algorithm from scratch to filter raw text rental values (e.g., "5k to 8k") written by local landlords, transforming unstructured free-text into precise database-filterable ranges[cite: 1]. |
-| **Infrastructure ROI** | Bypassed Google Maps API in favor of OpenStreetMap integrated with asynchronous geocoding isolates, enabling zero-cost dynamic mapping and unlimited location pinning[cite: 1]. |
-| **Code Repository** | [Access Source Code ↗](https://github.com/rayannkhn) |
+| **Stack** | Flutter, Dart, Supabase, PostgreSQL, OpenStreetMap [cite: 16] |
+| **Scale** | Serves university students across Pakistan checking real-time accommodation spaces[cite: 18, 20]. |
+| **Performance** | Serverless backend driven by Supabase + PostgreSQL handles listings data smoothly with zero self-managed runtime overhead[cite: 20]. |
+| **Security** | Isolated public data endpoints with clean object storage boundaries. |
+| **Impact** | Built custom string-parsing algorithms from scratch to transform unstructured price entries (e.g., "5k to 8k") into queryable numbers for application sliders[cite: 21, 22]. |
+| **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
 
 </details>
 
@@ -122,16 +139,16 @@ I am a product-focused Software Engineer experienced in Flutter, Python, and ful
 <summary><b>🌊 SAILAB — Flood Early Warning System</b></summary>
 <br>
 
-> Real-time flood monitoring platform designed for the Khyber Pakhtunkhwa (KPK) province to deliver high-availability critical early warnings[cite: 1].
+> **Real-time Province-Scale Telemetry Engine** developed for Khyber Pakhtunkhwa (KPK) to capture river metrics and distribute automated warning responses[cite: 25].
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Tech Stack** | Flutter, Riverpod (State Management), Supabase, Twilio API, OpenStreetMap[cite: 1] |
-| **Data Pipeline** | Continuously ingests live hydro-meteorological data from Open-Meteo across 9 distinct geographical river gauges, evaluation-scoring each dataset against a strict 5-tier risk profile in real-time[cite: 1]. |
-| **Telemetry Automation** | Programmed an emergency dispatch system via Twilio SMS and voice calling APIs, automating multi-lingual alerts (English, Urdu, Pashto) directly to localized village representatives on breach[cite: 1]. |
-| **Background Architecture** | Deployed low-level background checks running strictly every 15 minutes utilizing background `WorkManager` isolates, generating OS-level push notifications with zero active runtime dependencies[cite: 1]. |
-| **Security & Routing** | Role-based permission controls using Supabase Auth, secured with bcrypt and JSON Web Tokens (JWT)[cite: 1]. Discovery features leverage a hybrid pipeline: polling the app's local DB, falling back to live OSM Overpass API queries on cache miss[cite: 1]. |
-| **Code Repository** | [Access Source Code ↗](https://github.com/rayannkhn) |
+| **Stack** | Flutter, Riverpod, Supabase, Twilio API, OpenStreetMap [cite: 25] |
+| **Scale** | Maps live metrics across 9 river gauging installations synchronously[cite: 25]. |
+| **Performance** | Uses background `WorkManager` isolates to safely complete telemetry evaluation cycles every 15 minutes without active app use[cite: 27]. |
+| **Security** | Role-based authentication layers backed by secure Supabase Auth, bcrypt data encryption, and JWT transport security[cite: 28]. |
+| **Impact** | Dispatches real-time automated voice scripts and SMS alerts across English, Urdu, and Pashto using Twilio integrations[cite: 26]. |
+| **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
 
 </details>
 
@@ -139,85 +156,117 @@ I am a product-focused Software Engineer experienced in Flutter, Python, and ful
 <summary><b>🖥️ Aura — AI-Powered Intelligent File Organizer</b></summary>
 <br>
 
-> A cross-platform desktop engine (Windows/Linux) running automated 7-stage machine learning analysis on complex storage file systems[cite: 1].
+> **7-Stage Machine Learning Desktop Engine** engineered for Linux and Windows platforms to optimize unstructured local directories[cite: 32].
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Tech Stack** | Python, PyQt5 GUI Framework, scikit-learn, matplotlib, PyInstaller[cite: 1] |
-| **Pipeline Workflow** | 1. **K-Means Clustering:** Groups statistically similar documents[cite: 1].<br>2. **KNN Scoring:** Measures relative data importance[cite: 1].<br>3. **$A^*$ Heuristics:** Recommends optimal file hierarchies[cite: 1].<br>4. **Isolation Forest:** Catches system anomalies[cite: 1].<br>5. **Linear Regression:** Identifies prospective digital junk[cite: 1]. |
-| **Online Learning Loop** | Active user choice telemetry tracking (keep/delete decisions) to run continuous on-device local retraining loops to iteratively improve local model prediction accuracy[cite: 1]. |
-| **Distribution Layer** | Generates an analytical PDF audit report showcasing explicit disk cleanup ROI, privacy risks, and storage growth patterns[cite: 1]. Packaged with PyInstaller into a unified standalone zero-dependency executable[cite: 1]. |
-| **Code Repository** | [Access Source Code ↗](https://github.com/rayannkhn) |
+| **Stack** | Python, PyQt5, scikit-learn, matplotlib, PyInstaller [cite: 30, 35] |
+| **Scale** | Deploys locally across target user operating systems as a unified desktop runtime[cite: 32]. |
+| **Performance** | Progressively tracks directory management history to locally retrain model components and boost file classification accuracy[cite: 33]. |
+| **Security** | Local system isolation requiring zero network tracking loops or external telemetry sync tasks. |
+| **Impact** | Connects K-Means clustering, KNN metrics, $A^*$ routing path heuristics, Isolation Forest checks, and Linear Regression into a single workspace[cite: 32]. |
+| **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
 
 </details>
 
 <details>
-<summary><b>🧾 Receipt Zero — Paperless B2B Retail Platform (In-Development)</b></summary>
+<summary><b>🛡️ Fake Financial Receipt Detection System</b></summary>
 <br>
 
-> Next-generation QR-based digital receipt platform addressing compliance and operational printing costs for retail and pharmaceutical chains in Pakistan[cite: 1].
+> [cite_start]**Multi-Stage Computer Vision Pipeline** optimized to screen, isolate, and flag forged accounting records and receipt copies[cite: 37].
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Tech Stack** | Node.js, Express.js, Firebase BaaS, Twilio API, WhatsApp Business API[cite: 1] |
-| **Hybrid Transport** | Custom payload encoding strategy[cite: 1]. The generated QR system contains local encrypted receipt metrics for immediate offline scans, coupled with an active URL payload pointing to deep structural data when internet access is valid[cite: 1]. |
-| **Integrations** | Dispatches real-time transactional data across WhatsApp Business, native SMS gateways, and local fintech infrastructure (JazzCash, Easypaisa)[cite: 1]. Monetized via a multi-tiered PKR B2B subscription tier built on Safepay integration[cite: 1]. |
-| **Target Audience** | FBR-compliant enterprise merchants and local retail chains[cite: 1]. |
+| **Stack** | [cite_start]Python, OpenCV, scikit-learn [cite: 36] |
+| **Scale** | Adaptable for audit processing loops across commercial point-of-sale data engines. |
+| **Performance** | [cite_start]Executes localized structural inspections in one unified pipeline execution to protect against manipulation[cite: 37, 38]. |
+| **Security** | Immediate file pattern validation preventing malicious upload patterns. |
+| **Impact** | [cite_start]Merges pixel-level OpenCV forensics, metadata classifier training models, and automated text inconsistencies validation routines[cite: 37]. |
+| **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
+
+</details>
+
+<details>
+<summary><b>🧾 Receipt Zero — Paperless B2B Retail Platform</b></summary>
+<br>
+
+> [cite_start]**Enterprise-Grade QR Digital Ledger System** (Currently In-Development) designed for retail pharmacies and commercial chains in Pakistan[cite: 41, 42].
+
+| Parameter | Operational Specification & Implementation Metrics |
+| :--- | :--- |
+| **Stack** | [cite_start]Node.js, Express.js, Firebase, Twilio, WhatsApp Business API [cite: 41] |
+| **Scale** | [cite_start]Engineered for high-throughput transactional receipt updates across retail networks[cite: 42]. |
+| **Performance** | [cite_start]Packs localized receipt summary properties inside scannable code formats to sustain offline checkout runs[cite: 43]. |
+| **Security** | Secure backend state synchronization handled directly through structured Firebase instances. |
+| **Impact** | [cite_start]Powers messaging pipelines across WhatsApp Business alongside billing gateways integrated with Safepay services[cite: 44, 45]. |
+| **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
 
 </details>
 
 ---
 
-# 💼 Education & Training
+# 💼 Education & Training Focus
 
 ### National University of Computer and Emerging Sciences (FAST-NUCES)
-**BS in Computer Science (Graduation Range: Aug 2023 — 2027)** • *Peshawar, Pakistan*[cite: 1]
-*   Deep theoretical and applied focus on Core Systems Computing, Algorithms, Optimization, and Object-Oriented Software Design Engineering.
+[cite_start]**Bachelor of Science in Computer Science** • *Peshawar, Pakistan* (Aug 2023 — 2027) [cite: 9]
+* **Core Systems Domain Study:** Object-Oriented Software Architectures, Advanced Data Structures, Computational Algorithms, and Applied Artificial Intelligence Systems.
 
 ---
 
-# 📜 Professional Credentials
+# 📜 Industry Certifications
 
-### 🎨 User Experience Architecture
-*   **Google UX Design Professional Certificate** — *Issued by Coursera / Google (2025)*[cite: 1]  
-    Comprehensive framework studies mapping professional UI/UX architectures, user-centric wireframing, interactive prototyping, and accessible interface design systems.
+### 🎨 User Experience Systems
+* [cite_start]**Google UX Design Professional Certificate** — *Issued by Coursera / Google (2025)* [cite: 47, 50]  
+  Focus on structural wireframing, high-fidelity dynamic prototyping, layout design, and accessibility standards for enterprise platforms.
 
 ### ☁️ Cloud Infrastructure
-*   **AWS Cloud Computing Certification Workshop** — *FAST NUCES (2026)*[cite: 1]  
-    Intensive 6-week architectural program tracking compute structures, storage, serverless frameworks, database deployment paradigms, and identity-access policies within Amazon Web Services[cite: 1].
+* [cite_start]**AWS Cloud Computing Certification Workshop** — *Issued by FAST NUCES (2026)* [cite: 47, 51]  
+  Intensive 6-week technical training mapping infrastructure scaling, serverless microservice execution, and access control policies within Amazon Web Services.
 
 ---
 
-# 📊 GitHub Analytics Platform
+# 💻 Competitive Coding Metrics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 Deep Analytical Telemetry Hub
 
 <div align="center">
 <table border="0">
  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rayannkhn&show_icons=true&theme=midnight-purple&hide_border=true" width="400px"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rayannkhn&theme=midnight-purple&hide_border=true" width="400px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rayannkhn&show_icons=true&theme=midnight-purple&hide_border=true" width="410px"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rayannkhn&theme=midnight-purple&hide_border=true" width="410px"/></td>
  </tr>
  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayannkhn&layout=compact&theme=midnight-purple&hide_border=true" width="500px"/></td>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayannkhn&layout=compact&theme=midnight-purple&hide_border=true" width="520px"/></td>
  </tr>
 </table>
 </div>
 
 ---
 
-# 🏅 Engineering Trophies & Milestones
+# 🏅 Engineering Milestones & Badges
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rayannkhn&theme=algolia&no-frame=true&margin-w=15"/>
 </div>
 
-### Core Metrics Summary
-*   **Algorithmic Mastery:** Solved 200+ complex programming challenges across top competitive competitive tracks[cite: 1].
-*   **Hackathon Focus:** Designing, programming, and deploying minimum-viable market prototypes within strict 48-hour timelines[cite: 1].
-*   **Linguistic Stack:** Professional fluency in **English**, **Urdu** (Native Proficiency), and **Pashto** (Native Proficiency)[cite: 1].
+* **Algorithmic Mastery:** Solved 200+ algorithm challenges across competitive tracks.
+* **Rapid Startup Prototyping:** Experienced in designing and building minimum viable products under strict hackathon schedules.
+* [cite_start]**Linguistic Execution Layer:** Native execution fluency in **Urdu** [cite: 49] [cite_start]and **Pashto** [cite: 49][cite_start], with professional communication capacity in **English**[cite: 49].
 
 ---
 
-# 📈 Contribution Activity Matrix
+# 📈 Core Repository Contributions
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayannkhn&theme=react-dark&hide_border=true" width="850px"/>
@@ -225,29 +274,28 @@ I am a product-focused Software Engineer experienced in Flutter, Python, and ful
 
 ---
 
-# 🐍 Interactive Contribution Engine
+# 🐍 Interactive Contribution Grid Engine
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rayannkhn/rayan-khan/output/github-contribution-grid-snake.svg" alt="Contribution Snake Graph Animation"/>
+<img src="https://raw.githubusercontent.com/rayannkhn/rayan-khan/output/github-contribution-grid-snake.svg" alt="Dynamic Snake Graphic Track"/>
 </div>
 
 ---
 
-# 🎯 Current System Status
+# 🎯 Current Production System State
 
 ```yaml
-Current-Focus:
-  Learning:
-    - Advanced Distributed System Design
-    - Production-Grade Cloud Native Infrastructure
-    - Low-latency Deep Inference Systems
-  Building:
-    - B2B Fintech SaaS Integrations (Receipt Zero Platform)
-    - Low-Cost Hybrid Mobile Topologies
-  Exploring:
-    - Large Language Model (LLM) Local Fine-Tuning
-    - Automated CI/CD Testing Frameworks
+Current-System-Telemetry:
+  In-Flight-Learning:
+    - Advanced Distributed Architecture Patterns
+    - Enterprise-Grade Infrastructure Scaling
+    - Optimization Strategies for On-Device AI Execution
+  Active-Development:
+    - Safepay Integration & Microservice Development (Receipt Zero Platform) [cite: 45]
+    - Low-latency data sync protocols for hybrid mobile systems
+  Applied-Research:
+    - Small Language Model fine-tuning for specialized classification
+    - Automated unit testing tools for real-time mobile platforms
   Open-To:
-    - Enterprise Software Engineering Roles
-    - Advanced Machine Learning Collaborations
-    - Open Source Core Dev Projects
+    - Enterprise-level Software Engineering Roles
+    - High-throughput ML Infrastructure Collaborations
