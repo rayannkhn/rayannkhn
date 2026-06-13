@@ -42,14 +42,14 @@
 
 # 👨‍💻 About Section & Executive Summary
 
-> [cite_start]**Computer Science student at FAST-NUCES building real, production-ready systems tailored for Pakistani markets.** [cite: 6]
+> **Computer Science student at FAST-NUCES building real, production-ready systems tailored for Pakistani markets.**
 
-[cite_start]I am a highly product-focused Software Engineer with specialized competency across cross-platform mobile frameworks, custom Machine Learning pipelines, and full-stack web architectures[cite: 7]. [cite_start]With a track record of successfully shipped projects encompassing native applications, advanced data processing infrastructure, and early-stage startup systems [cite: 7][cite_start], I engineer solutions that combine high-performance computation with zero-cost structural architectures[cite: 20, 23, 24].
+I am a highly product-focused Software Engineer with specialized competency across cross-platform mobile frameworks, custom Machine Learning pipelines, and full-stack web architectures. With a track record of successfully shipped projects encompassing native applications, advanced data processing infrastructure, and early-stage startup systems, I engineer solutions that combine high-performance computation with zero-cost structural architectures.
 
 ### 🎯 Key Structural Pillars
-* [cite_start]**Cross-Platform Engineering:** Architecting comprehensive frontend applications utilizing robust state-management structures like Riverpod to scale smoothly across mobile and web layouts[cite: 11, 25].
-* [cite_start]**Intelligent Systems Pipeline:** Developing multi-stage mathematical models, algorithmic clustering systems, and statistical prediction layers optimized for low-latency executions[cite: 32].
-* [cite_start]**High-Availability Telemetry:** Designing background computing configurations, offline data-capturing mechanics, and direct programmatic warning gateways[cite: 26, 27, 43].
+* **Cross-Platform Engineering:** Architecting comprehensive frontend applications utilizing robust state-management structures like Riverpod to scale smoothly across mobile and web layouts.
+* **Intelligent Systems Pipeline:** Developing multi-stage mathematical models, algorithmic clustering systems, and statistical prediction layers optimized for low-latency executions.
+* **High-Availability Telemetry:** Designing background computing configurations, offline data-capturing mechanics, and direct programmatic warning gateways.
 
 ---
 
@@ -70,14 +70,14 @@
       • Dart <br>
       • JavaScript <br>
       • C <br>
-      • SQL [cite: 11]
+      • SQL
     </td>
     <td valign="top">
       • Flutter <br>
       • React <br>
       • Express.js <br>
       • PyQt5 <br>
-      • Riverpod [cite: 11]
+      • Riverpod
     </td>
     <td valign="top">
       • MySQL <br>
@@ -85,21 +85,21 @@
       • SQLite <br>
       • Firebase <br>
       • PostgreSQL <br>
-      • Supabase [cite: 11]
+      • Supabase
     </td>
     <td valign="top">
       • Git <br>
       • Figma <br>
       • Ubuntu Linux <br>
       • Unity 3D <br>
-      • REST APIs [cite: 11]
+      • REST APIs
     </td>
   </tr>
 </table>
 </div>
 
 ### Architectural & Engineering Methodologies
-[cite_start]`Object-Oriented Programming (OOP)` [cite: 11] [cite_start]• `State Management Patterns` [cite: 11] [cite_start]• `Backend-as-a-Service (BaaS)` [cite: 11] [cite_start]• `Asynchronous Programming Model` [cite: 11] [cite_start]• `UI/UX Strategy Design` [cite: 11] • `Database Scaling Protocols`
+`Object-Oriented Programming (OOP)` • `State Management Patterns` • `Backend-as-a-Service (BaaS)` • `Asynchronous Programming Model` • `UI/UX Strategy Design` • `Database Scaling Protocols`
 
 ---
 
@@ -107,12 +107,12 @@
 
 | Specialized Domain | Technical Methodologies & System Integrations | Proficiency |
 | :--- | :--- | :--- |
-| **Statistical Model Architecture** | [cite_start]Linear & Logistic Regression modeling, training validation pipelines, data feature extraction. [cite: 11] | **Advanced** |
-| **Algorithmic Analytics** | [cite_start]Unsupervised K-Means clustering, K-Nearest Neighbors (KNN) logic engineering, and Isolation Forest anomaly screening. [cite: 11] | **Advanced** |
-| **Complex Search Optimization** | [cite_start]Deployed $A^*$ heuristic graph algorithms for specialized data structures and custom operational layout generations. [cite: 11] | **Advanced** |
-| **Computer Vision Diagnostics** | Pixel-level manipulation diagnostics via OpenCV, structural image processing, and multi-layered feature-tampering evaluation. [cite: 36, 37] | **Intermediate** |
-| **Deep Learning Infrastructure** | Building custom multi-layered Neural Networks, training pipeline evaluations, and local optimization. [cite: 11] | **Intermediate** |
-| **Data Science Frameworks** | End-to-end exploratory analysis pipelines using `scikit-learn`, `pandas`, and high-density visualizations via `matplotlib`. [cite: 11] | **Advanced** |
+| **Statistical Model Architecture** | Linear & Logistic Regression modeling, training validation pipelines, data feature extraction. | **Advanced** |
+| **Algorithmic Analytics** | Unsupervised K-Means clustering, K-Nearest Neighbors (KNN) logic engineering, and Isolation Forest anomaly screening. | **Advanced** |
+| **Complex Search Optimization** | Deployed $A^*$ heuristic graph algorithms for specialized data structures and custom operational layout generations. | **Advanced** |
+| **Computer Vision Diagnostics** | Pixel-level manipulation diagnostics via OpenCV, structural image processing, and multi-layered feature-tampering evaluation. | **Intermediate** |
+| **Deep Learning Infrastructure** | Building custom multi-layered Neural Networks, training pipeline evaluations, and local optimization. | **Intermediate** |
+| **Data Science Frameworks** | End-to-end exploratory analysis pipelines using `scikit-learn`, `pandas`, and high-density visualizations via `matplotlib`. | **Advanced** |
 
 ---
 
@@ -122,16 +122,16 @@
 <summary><b>📱 AroundFAST — Campus Accommodation Finder Platform</b></summary>
 <br>
 
-> **Cross-Platform Mobile Application** built to address a major real estate problem that had no digital solution in Pakistani university sectors[cite: 16, 18, 19].
+> **Cross-Platform Mobile Application** built to address a major real estate problem that had no digital solution in Pakistani university sectors.
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Stack** | Flutter, Dart, Supabase, PostgreSQL, OpenStreetMap [cite: 16] |
-| **Scale** | Serves university students across Pakistan checking real-time accommodation spaces[cite: 18, 20]. |
-| **Performance** | Serverless backend driven by Supabase + PostgreSQL handles listings data smoothly with zero self-managed runtime overhead[cite: 20]. |
+| **Stack** | Flutter, Dart, Supabase, PostgreSQL, OpenStreetMap |
+| **Scale** | Serves university students across Pakistan checking real-time accommodation spaces. |
+| **Performance** | Serverless backend driven by Supabase + PostgreSQL handles listings data smoothly with zero self-managed runtime overhead. |
 | **Security** | Isolated public data endpoints with clean object storage boundaries. |
-| **Impact** | Built custom string-parsing algorithms from scratch to transform unstructured price entries (e.g., "5k to 8k") into queryable numbers for application sliders[cite: 21, 22]. |
-| **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
+| **Impact** | Built custom string-parsing algorithms from scratch to transform unstructured price entries (e.g., "5k to 8k") into queryable numbers for application sliders. |
+| **Links** | [GitHub Repository ↗](https://github.com/rayannkhn/AroundFast_v2) • [Production Deployment ↗](https://aroundfast.vercel.app/) |
 
 </details>
 
@@ -139,16 +139,16 @@
 <summary><b>🌊 SAILAB — Flood Early Warning System</b></summary>
 <br>
 
-> **Real-time Province-Scale Telemetry Engine** developed for Khyber Pakhtunkhwa (KPK) to capture river metrics and distribute automated warning responses[cite: 25].
+> **Real-time Province-Scale Telemetry Engine** developed for Khyber Pakhtunkhwa (KPK) to capture river metrics and distribute automated warning responses.
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Stack** | Flutter, Riverpod, Supabase, Twilio API, OpenStreetMap [cite: 25] |
-| **Scale** | Maps live metrics across 9 river gauging installations synchronously[cite: 25]. |
-| **Performance** | Uses background `WorkManager` isolates to safely complete telemetry evaluation cycles every 15 minutes without active app use[cite: 27]. |
-| **Security** | Role-based authentication layers backed by secure Supabase Auth, bcrypt data encryption, and JWT transport security[cite: 28]. |
-| **Impact** | Dispatches real-time automated voice scripts and SMS alerts across English, Urdu, and Pashto using Twilio integrations[cite: 26]. |
-| **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
+| **Stack** | Flutter, Riverpod, Supabase, Twilio API, OpenStreetMap |
+| **Scale** | Maps live metrics across 9 river gauging installations synchronously. |
+| **Performance** | Uses background `WorkManager` isolates to safely complete telemetry evaluation cycles every 15 minutes without active app use. |
+| **Security** | Role-based authentication layers backed by secure Supabase Auth, bcrypt data encryption, and JWT transport security. |
+| **Impact** | Dispatches real-time automated voice scripts and SMS alerts across English, Urdu, and Pashto using Twilio integrations. |
+| **Links** | [GitHub Repository ↗](https://github.com/rayannkhn/sailab-app) • [Production Deployment ↗](https://sailabpak.vercel.app/) |
 
 </details>
 
@@ -156,16 +156,16 @@
 <summary><b>🖥️ Aura — AI-Powered Intelligent File Organizer</b></summary>
 <br>
 
-> **7-Stage Machine Learning Desktop Engine** engineered for Linux and Windows platforms to optimize unstructured local directories[cite: 32].
+> **7-Stage Machine Learning Desktop Engine** engineered for Linux and Windows platforms to optimize unstructured local directories.
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Stack** | Python, PyQt5, scikit-learn, matplotlib, PyInstaller [cite: 30, 35] |
-| **Scale** | Deploys locally across target user operating systems as a unified desktop runtime[cite: 32]. |
-| **Performance** | Progressively tracks directory management history to locally retrain model components and boost file classification accuracy[cite: 33]. |
+| **Stack** | Python, PyQt5, scikit-learn, matplotlib, PyInstaller |
+| **Scale** | Deploys locally across target user operating systems as a unified desktop runtime. |
+| **Performance** | Progressively tracks directory management history to locally retrain model components and boost file classification accuracy. |
 | **Security** | Local system isolation requiring zero network tracking loops or external telemetry sync tasks. |
-| **Impact** | Connects K-Means clustering, KNN metrics, $A^*$ routing path heuristics, Isolation Forest checks, and Linear Regression into a single workspace[cite: 32]. |
-| **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
+| **Impact** | Connects K-Means clustering, KNN metrics, $A^*$ routing path heuristics, Isolation Forest checks, and Linear Regression into a single workspace. |
+| **Links** | [GitHub Repository ↗](https://github.com/rayannkhn) • [Product Landing Page ↗](https://linuxfileorganizer.netlify.app/) |
 
 </details>
 
@@ -173,15 +173,15 @@
 <summary><b>🛡️ Fake Financial Receipt Detection System</b></summary>
 <br>
 
-> [cite_start]**Multi-Stage Computer Vision Pipeline** optimized to screen, isolate, and flag forged accounting records and receipt copies[cite: 37].
+> **Multi-Stage Computer Vision Pipeline** optimized to screen, isolate, and flag forged accounting records and receipt copies.
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Stack** | [cite_start]Python, OpenCV, scikit-learn [cite: 36] |
+| **Stack** | Python, OpenCV, scikit-learn |
 | **Scale** | Adaptable for audit processing loops across commercial point-of-sale data engines. |
-| **Performance** | [cite_start]Executes localized structural inspections in one unified pipeline execution to protect against manipulation[cite: 37, 38]. |
+| **Performance** | Executes localized structural inspections in one unified pipeline execution to protect against manipulation. |
 | **Security** | Immediate file pattern validation preventing malicious upload patterns. |
-| **Impact** | [cite_start]Merges pixel-level OpenCV forensics, metadata classifier training models, and automated text inconsistencies validation routines[cite: 37]. |
+| **Impact** | Merges pixel-level OpenCV forensics, metadata classifier training models, and automated text inconsistencies validation routines. |
 | **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
 
 </details>
@@ -190,15 +190,15 @@
 <summary><b>🧾 Receipt Zero — Paperless B2B Retail Platform</b></summary>
 <br>
 
-> [cite_start]**Enterprise-Grade QR Digital Ledger System** (Currently In-Development) designed for retail pharmacies and commercial chains in Pakistan[cite: 41, 42].
+> **Enterprise-Grade QR Digital Ledger System** (Currently In-Development) designed for retail pharmacies and commercial chains in Pakistan.
 
 | Parameter | Operational Specification & Implementation Metrics |
 | :--- | :--- |
-| **Stack** | [cite_start]Node.js, Express.js, Firebase, Twilio, WhatsApp Business API [cite: 41] |
-| **Scale** | [cite_start]Engineered for high-throughput transactional receipt updates across retail networks[cite: 42]. |
-| **Performance** | [cite_start]Packs localized receipt summary properties inside scannable code formats to sustain offline checkout runs[cite: 43]. |
+| **Stack** | Node.js, Express.js, Firebase, Twilio, WhatsApp Business API |
+| **Scale** | Engineered for high-throughput transactional receipt updates across retail networks. |
+| **Performance** | Packs localized receipt summary properties inside scannable code formats to sustain offline checkout runs. |
 | **Security** | Secure backend state synchronization handled directly through structured Firebase instances. |
-| **Impact** | [cite_start]Powers messaging pipelines across WhatsApp Business alongside billing gateways integrated with Safepay services[cite: 44, 45]. |
+| **Impact** | Powers messaging pipelines across WhatsApp Business alongside billing gateways integrated with Safepay services. |
 | **Repository** | [Access Project Infrastructure ↗](https://github.com/rayannkhn) |
 
 </details>
@@ -208,7 +208,7 @@
 # 💼 Education & Training Focus
 
 ### National University of Computer and Emerging Sciences (FAST-NUCES)
-[cite_start]**Bachelor of Science in Computer Science** • *Peshawar, Pakistan* (Aug 2023 — 2027) [cite: 9]
+**Bachelor of Science in Computer Science** • *Peshawar, Pakistan* (Aug 2023 — 2027)
 * **Core Systems Domain Study:** Object-Oriented Software Architectures, Advanced Data Structures, Computational Algorithms, and Applied Artificial Intelligence Systems.
 
 ---
@@ -216,12 +216,10 @@
 # 📜 Industry Certifications
 
 ### 🎨 User Experience Systems
-* [cite_start]**Google UX Design Professional Certificate** — *Issued by Coursera / Google (2025)* [cite: 47, 50]  
-  Focus on structural wireframing, high-fidelity dynamic prototyping, layout design, and accessibility standards for enterprise platforms.
+* **Google UX Design Professional Certificate** — *Issued by Coursera / Google (2025)* Focus on structural wireframing, high-fidelity dynamic prototyping, layout design, and accessibility standards for enterprise platforms.
 
 ### ☁️ Cloud Infrastructure
-* [cite_start]**AWS Cloud Computing Certification Workshop** — *Issued by FAST NUCES (2026)* [cite: 47, 51]  
-  Intensive 6-week technical training mapping infrastructure scaling, serverless microservice execution, and access control policies within Amazon Web Services.
+* **AWS Cloud Computing Certification Workshop** — *Issued by FAST NUCES (2026)* Intensive 6-week technical training mapping infrastructure scaling, serverless microservice execution, and access control policies within Amazon Web Services.
 
 ---
 
@@ -262,7 +260,7 @@
 
 * **Algorithmic Mastery:** Solved 200+ algorithm challenges across competitive tracks.
 * **Rapid Startup Prototyping:** Experienced in designing and building minimum viable products under strict hackathon schedules.
-* [cite_start]**Linguistic Execution Layer:** Native execution fluency in **Urdu** [cite: 49] [cite_start]and **Pashto** [cite: 49][cite_start], with professional communication capacity in **English**[cite: 49].
+* **Linguistic Execution Layer:** Native execution fluency in **Urdu** and **Pashto**, with professional communication capacity in **English**.
 
 ---
 
@@ -291,7 +289,7 @@ Current-System-Telemetry:
     - Enterprise-Grade Infrastructure Scaling
     - Optimization Strategies for On-Device AI Execution
   Active-Development:
-    - Safepay Integration & Microservice Development (Receipt Zero Platform) [cite: 45]
+    - Safepay Integration & Microservice Development (Receipt Zero Platform)
     - Low-latency data sync protocols for hybrid mobile systems
   Applied-Research:
     - Small Language Model fine-tuning for specialized classification
